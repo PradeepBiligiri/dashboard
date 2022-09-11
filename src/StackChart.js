@@ -51,7 +51,7 @@ export const data = {
       fill: true,
       lineTension: 0.2,
       label: "Total Loss",
-      data: [100, 60, 120, 20, 250, 45, 100, 45],
+      data: [100, 60, 120, 20, 240, 45, 100, 45],
       borderColor: "rgb(53, 162, 235)",
       backgroundColor: "rgba(53, 162, 235, 0.5)",
     },
